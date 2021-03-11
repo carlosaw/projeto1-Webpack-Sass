@@ -1,5 +1,6 @@
 import $ from 'jquery';
 import './css/teste.scss';
+import FeedImg from './images/feed.jpg';
 import Botao from './components/botao/index.js';
 
 $(function(){
